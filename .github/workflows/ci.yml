@@ -5,6 +5,7 @@ on:
       - "master"
       - "qa"
       - "develop"
+      - "v0.3.0"
   pull_request:
     branches:
       - "**"
